@@ -1,0 +1,29 @@
+@charset 'UTF-8';
+ 
+@import url('https://fonts.googleapis.com/css2?family=Tiro+Devanagari+Sanskrit&display=swap');
+
+body{
+background-color: rgb(95, 95, 161);
+font: bold 15pt Arial;
+}
+header{
+    font-family: 'Tiro Devanagari Sanskrit', serif;
+    text-align: center;
+    color: white;
+ 
+}
+section{
+background-color: white;
+border-radius: 10px;
+width: 450px;
+padding: 15px;
+margin: auto;
+box-shadow: 5px 5px 2px    rgba(0, 0, 0, 0.227);
+justify-self: auto;
+}
+footer{
+text-align: center;
+color: white;
+font-style: italic;
+font-size: medium;
+}
