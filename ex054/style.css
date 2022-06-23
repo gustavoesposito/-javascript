@@ -17,14 +17,60 @@ column-gap: 30px;
 .bloco-1{
 background-color: blue;
 padding: 40px;
- 
+ order: 1;
 }
 .bloco-2{
 background-color: red;
 padding: 40px;
- 
+ order: 0;
  }
 .bloco-3{
 background-color: yellow;
 padding: 40px;
+order: -1;
+ }
+.bloco-1{
+background-color: blue;
+padding: 40px;
+ order: 1;
+}
+.bloco-2{
+background-color: red;
+padding: 40px;
+ order: 0;
+ }
+.bloco-3{
+background-color: yellow;
+padding: 40px;
+order: -1;
+ }
+.bloco-1{
+background-color: blue;
+padding: 40px;
+ order: 1;
+}
+.bloco-2{
+background-color: red;
+padding: 40px;
+ order: 0;
+ }
+.bloco-3{
+background-color: yellow;
+padding: 40px;
+order: -1;
+ }
+.bloco-1{
+background-color: blue;
+padding: 40px;
+ order: 1;
+}
+.bloco-2{
+background-color: red;
+padding: 40px;
+ order: 0;
+ }
+.bloco-3{
+background-color: yellow;
+padding: 40px;
+order: -1;
  }
