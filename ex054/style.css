@@ -13,6 +13,7 @@ flex-wrap: wrap;
 align-content: center;
 row-gap: 10px;
 column-gap: 30px;
+border-radius: 30px;
 }
 .bloco-1{
 background-color: blue;
@@ -29,48 +30,50 @@ background-color: yellow;
 padding: 40px;
 order: -1;
  }
-.bloco-1{
+.bloco-4{
 background-color: blue;
 padding: 40px;
  order: 1;
 }
-.bloco-2{
+.bloco-5{
 background-color: red;
 padding: 40px;
  order: 0;
  }
-.bloco-3{
+.bloco-6{
 background-color: yellow;
 padding: 40px;
 order: -1;
  }
-.bloco-1{
+.bloco-7{
 background-color: blue;
 padding: 40px;
  order: 1;
 }
-.bloco-2{
+.bloco-8{
 background-color: red;
 padding: 40px;
  order: 0;
  }
-.bloco-3{
+.bloco-9{
 background-color: yellow;
 padding: 40px;
 order: -1;
  }
-.bloco-1{
+.bloco-10{
 background-color: blue;
 padding: 40px;
  order: 1;
 }
-.bloco-2{
+.bloco-11{
 background-color: red;
 padding: 40px;
  order: 0;
  }
-.bloco-3{
+.bloco-12{
 background-color: yellow;
 padding: 40px;
 order: -1;
+flex-grow: 10;
+text-align: center;
  }
